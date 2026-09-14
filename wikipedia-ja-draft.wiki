@@ -1,0 +1,32 @@
+'''William C. C. Chen'''（William Chi-Cheng Chen、陳至誠、1933年 - ）は、中国出身のアメリカ合衆国の[[太極拳]]家、武術指導者である。[[楊式太極拳]]の鄭曼青（Cheng Man-ch'ing）に師事し、1965年にニューヨークで自身の太極拳スクールを開いた。<ref name="dnb">{{Cite web |url=https://d-nb.info/gnd/1122599463 |title=Chen, William C. C. |publisher=Deutsche Nationalbibliothek |accessdate=2026-09-14 |language=de}}</ref><ref name="interview">{{Cite web |url=https://web.archive.org/web/20101127162410/http://www.taichiunion.com/magazine/wccc.html |title=Grandmaster William C.C. Chen interviewed by Ronnie Robinson |publisher=Tai Chi Union for Great Britain |accessdate=2026-09-14 |language=en}}</ref>
+
+== 来歴 ==
+中国浙江省温州に生まれた。生年については、ドイツ国立図書館の典拠データでは1933年とされる一方、本人の公式略歴などには1935年とする記述もある。<ref name="dnb" /><ref>{{Cite web |url=https://www.williamccchen.com/ggm-chen.html |title=GGM Chen |publisher=William C. C. Chen |accessdate=2026-09-14 |language=en}}</ref>
+
+第二次世界大戦後に家族と台湾へ移り、1940年代末から鄭曼青に太極拳を学んだ。チェンは後年のインタビューで、鄭の家に住み込み、通訳や指導の補助を務めたと述べている。1953年に指導を始め、1962年にハワイ大学へ進学した後、ホノルルでも太極拳を教えた。1965年にはニューヨークに自身のスクールを設立した。<ref name="interview" />
+
+== 指導法 ==
+チェンの指導は、身体力学、全身の協調、実用的な護身、推手、散手、剣術を重視する。足裏の母趾、母趾球、踵を三つの支点として捉える「スリー・ネイルズ（Three Nails）」の考え方でも知られる。著書『Body Mechanics of Tai Chi Chuan』では、太極拳の動作を護身術に応用するための身体力学を解説した。<ref name="book">{{Cite book |author=William C. C. Chen |title=Body Mechanics of Tai Chi Chuan: For the Art of Self-defense |edition=3rd |year=1985 |publisher=William C. C. Chen |isbn=9780964408401 |url=https://books.google.com/books?id=pGRytgAACAAJ |language=en}}</ref><ref name="interview" />
+
+== 日本における認定指導者 ==
+チェンの公式サイトにあるアジア・ヨーロッパ地域の認定指導者一覧では、日本の認定指導者として岡山県瀬戸内市牛窓の'''柏木規与子'''（Kiyoko Kashiwagi）が掲載されており、同一覧で日本から掲載されている指導者は柏木のみである。認定分野として、60式ショートフォーム、ロングフォーム、剣式、推手、競技が挙げられている。<ref name="certified">{{Cite web |url=https://www.williamccchen.com/asia--eu-certified-instructors.html |title=Certified Instructors: Asia & Europe |publisher=William C. C. Chen |accessdate=2026-09-14 |language=en}}</ref>
+
+柏木は2021年、牛窓に太極拳道場「太極拳 樂心舎（Tai Chi Chuan RAKUSHIN-SHA）」を開設した。同道場ではチェンから学んだ伝統楊式太極拳を指導している。<ref>{{Cite web |url=https://www.rakushinsha.com/ |title=太極拳 樂心舎 — Tai Chi Chuan RAKUSHIN-SHA |accessdate=2026-09-14 |language=ja}}</ref>
+
+== 著書 ==
+* ''Body Mechanics of Tai Chi Chuan: For the Art of Self-defense''（第3版、1985年）<ref name="book" />
+
+== 脚注 ==
+{{脚注ヘルプ}}
+{{Reflist}}
+
+== 外部リンク ==
+* [https://www.williamccchen.com/ William C. C. Chen公式サイト]
+* [https://www.rakushinsha.com/ 太極拳 樂心舎]
+
+{{Normdaten}}
+{{DEFAULTSORT:ちえん ういりあむCC}}
+[[Category:中国系アメリカ人]]
+[[Category:太極拳]]
+[[Category:浙江省出身の人物]]
+[[Category:存命人物]]
